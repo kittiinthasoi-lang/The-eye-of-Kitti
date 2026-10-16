@@ -1,0 +1,12 @@
+{
+  "name": "The Eye of Kitti",
+  "description": "แอปพลิเคชันนำทางผู้พิการทางสายตาด้วยกล้อง AI ตรวจจับสิ่งกีดขวาง ระบบเสียงนำทางเรียลไทม์ และระบบขอความช่วยเหลือฉุกเฉิน SOS ส่งพิกัดตำแหน่ง",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
